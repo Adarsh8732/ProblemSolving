@@ -13,7 +13,7 @@ class Solution {
         }
         
         // if(open>close)
-        
+
         //     return ;
         if(open<=close && open>-1 && close>-1){
         gnrtprnthss(list,str+"(",open-1,close);
